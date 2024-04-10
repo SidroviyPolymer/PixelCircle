@@ -1,0 +1,13 @@
+D:\Projects\Програмирование\C#\PixelCircles\bin\Debug\PixelCircles.exe.config
+D:\Projects\Програмирование\C#\PixelCircles\bin\Debug\PixelCircles.exe
+D:\Projects\Програмирование\C#\PixelCircles\bin\Debug\PixelCircles.pdb
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.csproj.AssemblyReference.cache
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.Properties.Resources.resources
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.csproj.GenerateResource.cache
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.csproj.CoreCompileInputs.cache
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.exe
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.pdb
+D:\Projects\Програмирование\C#\PixelCircles\bin\Debug\ru\PixelCircles.resources.dll
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.MainForm.resources
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\PixelCircles.MainForm.ru.resources
+D:\Projects\Програмирование\C#\PixelCircles\obj\Debug\ru\PixelCircles.resources.dll
